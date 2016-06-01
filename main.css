@@ -1,0 +1,85 @@
+/*******TOP BANNER********/
+
+ul {
+    float: right;
+}
+
+ul li {
+    float: left;
+    list-style-type: none; 
+    display: inline-block;
+    padding: 0 5px;;
+}
+
+li a {
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: underline;
+}
+
+ul img {
+    max-height: 25px;
+    max-width: 25px;
+}
+
+#nulubanner {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+/*******CENTER LOGO********/
+
+.main-logo {
+    display: block;
+    width: 1362px;
+    height: 233px;
+    padding-top: 89px;
+}
+
+.main-logo img {
+    display: block;
+    width: 272px;
+    height: 92px;
+    padding-top: 109px;
+    margin: auto;
+}
+
+/*******SEARCH AREA********/
+
+.search-area img {
+    width: 17px;
+    height: 23px;
+}
+
+.search-area {
+    display: block;
+    width: 571px;
+    height: 121px;
+    padding: 8px 284px 0 284px;
+    margin: auto;
+}
+
+.search-button {
+    display: block;
+    width: 571px;
+    height: 58px;
+    padding-top: 18px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-bar {
+    width: 584px;
+    height: 38px;
+}
+
+#button-left {
+    float: left;
+}
+
+#button-right {
+    float: right;
+}
